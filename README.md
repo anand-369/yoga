@@ -37,6 +37,10 @@ This is a web based application developed for yoga related information website i
 
 ![HEALTHBOT2](https://user-images.githubusercontent.com/115984065/217302837-d97b85d6-01cb-496e-8f09-e38193f7c065.jpg)
 
+### Website screenshots -
+![WEBSITE1](https://user-images.githubusercontent.com/115984065/217309345-98802d81-57aa-44af-b50b-b00ee77e425e.jpg)
+![WEBSITE 2](https://user-images.githubusercontent.com/115984065/217309415-2f757e21-8ae5-42ca-9126-09a08c474184.jpg)
+![WEBSITE 3](https://user-images.githubusercontent.com/115984065/217309477-a6508ed6-eff8-4deb-ac1d-79afdaca5de2.jpg)
 
 ### About Us -
 
@@ -46,6 +50,7 @@ This is a web based application developed for yoga related information website i
 
 
 ### Contact us -
+
 
 
 
