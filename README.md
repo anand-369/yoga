@@ -26,6 +26,9 @@ This is a web based application developed for yoga related information website i
 ## screenshots
 
 ### azure technologies -
+![AZURE PAGE](https://user-images.githubusercontent.com/115984065/217307473-7ce8a124-04d7-48e9-a657-df5ea91eaa41.jpg)
+![STATIC WEB APP](https://user-images.githubusercontent.com/115984065/217307513-7d6ed764-67be-43d5-89fb-e12db57e844d.jpg)
+![HEALTH BOT](https://user-images.githubusercontent.com/115984065/217307544-fe8b2689-12f6-45e5-ab81-1ccf80f6d4d5.jpg)
 
 
 ### health bot
